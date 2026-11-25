@@ -1,0 +1,6 @@
+{
+  "name": "Монолит CRM",
+  "description": "Минималистичная CRM для поиска клиентов среди застройщиков и девелоперов с планировщиком задач на день, неделю и месяц.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
